@@ -1,5 +1,5 @@
 # conversor-de-monedas-alura
-///Espero haber estado a la altura de las circunstancias, sin dudas dí mi mayor esfuerzo.-
+///Espero haber estado a la altura de las circunstancias, sin dudas dí mi mayor esfuerzo en la realizacion de éste maravilloso proyecto.-
 
 ****************************************
 Bienvenidos al Conversor de Moneda
