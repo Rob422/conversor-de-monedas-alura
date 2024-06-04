@@ -1,1 +1,1 @@
-https://v6.exchangerate-api.com/v6/e037eec3747f2d4eb9324edb/latest/USD
+colocar API_KEY

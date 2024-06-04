@@ -11,7 +11,7 @@ import java.util.regex.Pattern;
 public class Principal {
     public static void main(String[] args) {
         String apiKey;
-        String dirApi = "https://v6.exchangerate-api.com/v6/e037eec3747f2d4eb9324edb/latest/USD";
+        String dirApi = "https://v6.exchangerate-api.com/v6/*colocar API_KEY*/USD";
         String dirPath = "apiKey.txt";
         Map<Integer,String> map = new HashMap<>();
         map.put(1,"USDARS");
